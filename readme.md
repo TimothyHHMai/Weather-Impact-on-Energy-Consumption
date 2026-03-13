@@ -75,13 +75,11 @@ Weather variables include:
 * Month
 * Day of week
 
-These help capture seasonal and weekly patterns in electricity usage.
 
 ---
 
 ## Exploratory Data Analysis (EDA)
 
-EDA was performed to understand the dataset and identify relationships between variables.
 
 Key analyses include:
 
@@ -93,14 +91,12 @@ Key analyses include:
 
 ### Visualizations
 
-The project includes the following visualizations:
 
 * Correlation heatmap
 * Histogram of electricity demand
 * Temperature vs demand scatter plot
 * Feature correlation bar chart
 
-These visualizations help identify which variables may be useful predictors.
 
 ---
 
@@ -119,7 +115,6 @@ These visualizations help identify which variables may be useful predictors.
 Potential next steps for the project include:
 
 * Building machine learning models to predict electricity demand
-* Testing models such as Linear Regression, Random Forest, SVM, and Neural Networks
 
 ---
 
