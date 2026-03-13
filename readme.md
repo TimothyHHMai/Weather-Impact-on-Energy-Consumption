@@ -4,8 +4,6 @@
 
 This project analyzes electricity demand and weather data to explore patterns and build features that help predict electricity demand. The goal is to understand how weather variables such as temperature, wind, and precipitation influence daily electricity usage.
 
-The project combines electricity grid data with weather observations and performs exploratory data analysis (EDA) to identify relationships between variables before building predictive models.
-
 ---
 
 ## Data Sources
