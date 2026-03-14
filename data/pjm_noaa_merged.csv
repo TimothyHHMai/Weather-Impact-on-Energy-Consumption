@@ -1,4 +1,4 @@
-period,subba,subba-name,parent,parent-name,timezone,value,value-units,DATE,STATION,NAME,AWND,PRCP,TAVG,TMAX,TMIN
+period,subba,subba-name,parent,parent-name,timezone,demand,value-units,DATE,STATION,NAME,AWND,PRCP,TAVG,TMAX,TMIN
 2022-04-01,PS,Public Service Electric & Gas of New Jersey zone - PJM,PJM,"PJM Interconnection, LLC",Arizona,100418.0,megawatthours,2022-04-01,US1NJHN0019,"LEBANON 3.2 SW, NJ US",17.22,0.24,57.0,70.0,52.0
 2022-04-02,PS,Public Service Electric & Gas of New Jersey zone - PJM,PJM,"PJM Interconnection, LLC",Pacific,90501.0,megawatthours,2022-04-02,US1NJHN0019,"LEBANON 3.2 SW, NJ US",11.41,0.01,46.0,58.0,34.0
 2022-04-02,PS,Public Service Electric & Gas of New Jersey zone - PJM,PJM,"PJM Interconnection, LLC",Mountain,90686.0,megawatthours,2022-04-02,US1NJHN0019,"LEBANON 3.2 SW, NJ US",11.41,0.01,46.0,58.0,34.0
@@ -3533,7 +3533,6 @@ period,subba,subba-name,parent,parent-name,timezone,value,value-units,DATE,STATI
 2024-03-08,PS,Public Service Electric & Gas of New Jersey zone - PJM,PJM,"PJM Interconnection, LLC",Pacific,101914.0,megawatthours,2024-03-08,US1NJHN0019,"LEBANON 3.2 SW, NJ US",8.28,0.0,47.0,54.0,34.0
 2024-03-08,PS,Public Service Electric & Gas of New Jersey zone - PJM,PJM,"PJM Interconnection, LLC",Eastern,101981.0,megawatthours,2024-03-08,US1NJHN0019,"LEBANON 3.2 SW, NJ US",8.28,0.0,47.0,54.0,34.0
 2024-03-09,PS,Public Service Electric & Gas of New Jersey zone - PJM,PJM,"PJM Interconnection, LLC",Eastern,105810.0,megawatthours,2024-03-09,US1NJHN0019,"LEBANON 3.2 SW, NJ US",11.41,0.0,44.0,52.0,38.0
-,,,,,,,,2024-03-10,US1NJHN0019,"LEBANON 3.2 SW, NJ US",17.45,1.68,46.0,50.0,39.0
 2024-03-11,PS,Public Service Electric & Gas of New Jersey zone - PJM,PJM,"PJM Interconnection, LLC",Pacific,107192.0,megawatthours,2024-03-11,US1NJHN0019,"LEBANON 3.2 SW, NJ US",22.59,0.0,44.0,50.0,34.0
 2024-03-11,PS,Public Service Electric & Gas of New Jersey zone - PJM,PJM,"PJM Interconnection, LLC",Mountain,107298.0,megawatthours,2024-03-11,US1NJHN0019,"LEBANON 3.2 SW, NJ US",22.59,0.0,44.0,50.0,34.0
 2024-03-11,PS,Public Service Electric & Gas of New Jersey zone - PJM,PJM,"PJM Interconnection, LLC",Eastern,107475.0,megawatthours,2024-03-11,US1NJHN0019,"LEBANON 3.2 SW, NJ US",22.59,0.0,44.0,50.0,34.0
@@ -4710,8 +4709,6 @@ period,subba,subba-name,parent,parent-name,timezone,value,value-units,DATE,STATI
 2024-10-31,PS,Public Service Electric & Gas of New Jersey zone - PJM,PJM,"PJM Interconnection, LLC",Central,108208.0,megawatthours,2024-10-31,US1NJHN0018,"CLINTON TWP 3.9 N, NJ US",9.4,0.0,70.0,77.0,50.0
 2024-10-31,PS,Public Service Electric & Gas of New Jersey zone - PJM,PJM,"PJM Interconnection, LLC",Arizona,108784.0,megawatthours,2024-10-31,US1NJHN0018,"CLINTON TWP 3.9 N, NJ US",9.4,0.0,70.0,77.0,50.0
 2024-11-01,PS,Public Service Electric & Gas of New Jersey zone - PJM,PJM,"PJM Interconnection, LLC",Eastern,108667.0,megawatthours,2024-11-01,US1NJHN0018,"CLINTON TWP 3.9 N, NJ US",13.65,0.0,74.0,83.0,62.0
-,,,,,,,,2024-11-02,US1NJHN0018,"CLINTON TWP 3.9 N, NJ US",9.84,0.0,59.0,78.0,41.0
-,,,,,,,,2024-11-03,US1NJHN0018,"CLINTON TWP 3.9 N, NJ US",8.72,0.0,49.0,61.0,33.0
 2024-11-04,PS,Public Service Electric & Gas of New Jersey zone - PJM,PJM,"PJM Interconnection, LLC",Mountain,101855.0,megawatthours,2024-11-04,US1NJHN0018,"CLINTON TWP 3.9 N, NJ US",6.71,0.0,49.0,54.0,32.0
 2024-11-04,PS,Public Service Electric & Gas of New Jersey zone - PJM,PJM,"PJM Interconnection, LLC",Eastern,101731.0,megawatthours,2024-11-04,US1NJHN0018,"CLINTON TWP 3.9 N, NJ US",6.71,0.0,49.0,54.0,32.0
 2024-11-04,PS,Public Service Electric & Gas of New Jersey zone - PJM,PJM,"PJM Interconnection, LLC",Central,101812.0,megawatthours,2024-11-04,US1NJHN0018,"CLINTON TWP 3.9 N, NJ US",6.71,0.0,49.0,54.0,32.0
