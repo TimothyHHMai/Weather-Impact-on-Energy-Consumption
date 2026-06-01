@@ -1,4 +1,4 @@
-period,subba,subba-name,parent,parent-name,timezone,value,value-units,DATE,STATION,NAME,AWND,PRCP,TAVG,TMAX,TMIN,Year,Month,Weekday
+period,subba,subba-name,parent,parent-name,timezone,demand,value-units,DATE,STATION,NAME,AWND,PRCP,TAVG,TMAX,TMIN,Year,Month,Weekday
 2022-04-01,PS,Public Service Electric & Gas of New Jersey zone - PJM,PJM,"PJM Interconnection, LLC",Arizona,100418.0,megawatthours,2022-04-01,US1NJHN0019,"LEBANON 3.2 SW, NJ US",17.22,0.24,57.0,70.0,52.0,2022,4,Friday
 2022-04-02,PS,Public Service Electric & Gas of New Jersey zone - PJM,PJM,"PJM Interconnection, LLC",Pacific,90501.0,megawatthours,2022-04-02,US1NJHN0019,"LEBANON 3.2 SW, NJ US",11.41,0.01,46.0,58.0,34.0,2022,4,Saturday
 2022-04-02,PS,Public Service Electric & Gas of New Jersey zone - PJM,PJM,"PJM Interconnection, LLC",Mountain,90686.0,megawatthours,2022-04-02,US1NJHN0019,"LEBANON 3.2 SW, NJ US",11.41,0.01,46.0,58.0,34.0,2022,4,Saturday
