@@ -108,13 +108,6 @@ Key analyses include:
 
 ---
 
-## Future Work
-
-Potential next steps for the project include:
-
-* Building machine learning models to predict electricity demand
-
----
 
 ## Author
 
